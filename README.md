@@ -26,7 +26,7 @@ This program calculates an individual’s net salary by getting the inputs of ba
 
 
 ## Set-up Instructions
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine ; https://github.com/willy3000/week1-toy-problem
 2. In your terminal run 'npm install' to install dependancies.
 3. Run 'node filename.js' in your terminal to run the code in the respective file.
 
